@@ -35,5 +35,5 @@
 1. Клонируйте репозиторий:
 
    ```bash
-   git clone https://github.com/your-username/github-user-finder.git
+   https://github.com/Aleksandr64ru/GitHub-User-Finder.git
 
